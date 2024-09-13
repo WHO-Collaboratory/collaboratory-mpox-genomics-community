@@ -1,5 +1,7 @@
 ### IPSN Community of Practice on specialized surveillance for emergency response
 
+![image](ipsn.png)
+
 The [IPSN](https://www.who.int/initiatives/international-pathogen-surveillance-network) was formally launch on 20 May 2023 ahead of the World Health Assembly as a global network of pathogen genomic actors, hosted by the WHO Hub for Pandemic and Epidemic Intelligence, to accelerate progress on the deployment of pathogen genomics and improve public health decision-making in line with the implementation of the Global Genomic Strategy for Pathogens with Pandemic and Epidemic Potential. It brings together experts worldwide at the cutting-edge of genomics and data analytics, from governments, philanthropic foundations, multilateral organizations, civil society, academia and the private sector. All share a common goal – to detect and respond to disease threats before they become epidemics and pandemics, and to optimize routine disease surveillance. 
 
 Considering WHO Director-General Dr Tedros Adhanom Ghebreyesus has determined that the upsurge of mpox in the Democratic Republic of the Congo (DRC) and a growing number of countries in Africa constitutes a public health emergency of international concern (PHEIC) under the International Health Regulations (2005) (IHR), IPSN hosted by the WHO Hub is standing-up a Community of Practice for Emergency Response focusing on Mpox to support coordination of pathogen genomics actors.  This will be operational by end of the week of 19 August 2024. 

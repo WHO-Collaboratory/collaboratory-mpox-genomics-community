@@ -1,57 +1,33 @@
-### IPSN Community of Practice on specialized surveillance for emergency response
+
 
 ![image](ipsn.png)
+### IPSN Community of Practice on specialized surveillance for emergency response
 
-The [IPSN](https://www.who.int/initiatives/international-pathogen-surveillance-network) was formally launch on 20 May 2023 ahead of the World Health Assembly as a global network of pathogen genomic actors, hosted by the WHO Hub for Pandemic and Epidemic Intelligence, to accelerate progress on the deployment of pathogen genomics and improve public health decision-making in line with the implementation of the Global Genomic Strategy for Pathogens with Pandemic and Epidemic Potential. It brings together experts worldwide at the cutting-edge of genomics and data analytics, from governments, philanthropic foundations, multilateral organizations, civil society, academia and the private sector. All share a common goal – to detect and respond to disease threats before they become epidemics and pandemics, and to optimize routine disease surveillance. 
+The [IPSN](https://www.who.int/initiatives/international-pathogen-surveillance-network) is a global network of pathogen genomic actors, hosted by the WHO Hub for Pandemic and Epidemic Intelligence, to accelerate progress on the deployment of pathogen genomics and improve public health decision-making in line with the implementation of the Global Genomic Strategy for Pathogens with Pandemic and Epidemic Potential. 
 
-Considering WHO Director-General Dr Tedros Adhanom Ghebreyesus has determined that the upsurge of mpox in the Democratic Republic of the Congo (DRC) and a growing number of countries in Africa constitutes a public health emergency of international concern (PHEIC) under the International Health Regulations (2005) (IHR), IPSN hosted by the WHO Hub is standing-up a Community of Practice for Emergency Response focusing on Mpox to support coordination of pathogen genomics actors.  This will be operational by end of the week of 19 August 2024. 
+WHO Director-General Dr Tedros Adhanom Ghebreyesus has determined that the upsurge of mpox in the Democratic Republic of the Congo (DRC) and a growing number of countries in Africa constitutes a public health emergency of international concern (PHEIC) under the International Health Regulations (2005) (IHR).  To support this repsone IPSN is standing-up a Community of Practice (CoP) for specialized surveillance for emergency response to facilitate the coordination of pathogen genomics actors. 
 
-Community of Practice Objective & Structure 
+#### Community of Practice Objective & Structure 
 
-Objective 
+###### Objective 
 
-The objective of this CoP is to support members to exchange knowledge that enhances their ability to make informed decisions, solve challenges, and identify new opportunities for utilizing pathogen genomics and wastewater surveillance in the emergency response to Mpox. This is a member-driven forum where priorities are set, content is created and executed collaboratively by members with facilitation support by WHO. 
+The objective of this CoP is to support members to exchange knowledge that enhances their ability to make informed decisions, solve challenges, and identify new opportunities for utilizing pathogen genomics and wastewater surveillance in the emergency response to Mpox. 
+###### Working Groups & Workstreams 
 
-Working Groups & Workstreams 
+The CoP is divided into two working groups: Pathogen Genomics Surveillance (PGS) and Wastewater Surveillance (WES). Within each work group, there are distinct workstreams which enable members to focus on specific issues most salient to them.  
 
-The CoP is divided into two working groups: Pathogen Genomics (PGS) and Wastewater Surveillance (WES). Within each work group, there are distinct workstreams which enable members to focus on specific issues most salient to them.  
+###### Pathogen Genomics Working group  
 
-Workstreams are not meant to be comprehensive of all Mpox related needs: this is an emergency response, and the work should reflect what members need as part of that; nor is the focus solely on the creation products/protocols/goods, though that may be a desired outcome by members.  
-
-Member Engagement 
-
-WHO Facilitation  
-
-Each workstream is facilitated by Chair and Co-Chair, made up of a WHO lead and an expert external to the organization. Together, they will be responsible for liaising with members, communicating logistics and facilitating workstream progress through meetings and discussion forums. 
-
-Collaboratory Platform 
-
-Working group members are invited to the WHO Collaboratory – a platform for real-time discussion and information sharing. Within the Collaboratory, workstreams have been established and members are encouraged to bring questions; share latest documentation and publications. 
-
-Pathogen Genomics Working group  
-
-The IPSN members and partners at the working group will:  
-
+This working group will:  
 - Support harmonization and in-country deployment of the bioinformatics analysis of MPXV genome data to strengthen quality of the analysis (for example generation of high quality consensus sequences and an External Quality Assurance (EQA) for bioinformatics). 
-    
-
 - Build consensus on sequencing standards for genomic data and linked metadata to be uploaded to GISAID and other pathogen genomic data sharing platforms 
-    
-
 - Identify mechanisms to promote and facilitate sharing of raw sequencing data 
-    
-
 - Support analysis and interpretation of Mpox sequencing data to characterize and monitor changes in disease transmission including identifying new clades, identification/verification of mutations of interest, and monitoring transmission chains.  
-    
-
 - Support the integration of sequence data into epidemiological and contextual information as reported by countries. 
-    
-
 - IPSN Secretariat is facilitating coordination between donors to genomic surveillance 
-    
-
 - The Hub’s Collaboratory platform will host discussions and communication among members for continued dialogue and exchange of expertise in pathogen genomics 
-    
+
+
 
 Two work streams have been defined for PGS: 
 

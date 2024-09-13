@@ -16,45 +16,31 @@ The objective of this CoP is to support members to exchange knowledge that enhan
 
 The CoP is divided into two working groups: Pathogen Genomics Surveillance (PGS) and Wastewater Surveillance (WES). Within each work group, there are distinct workstreams which enable members to focus on specific issues most salient to them.  
 
-###### Pathogen Genomics Working group  
+##### Pathogen Genomics Working group  
 
 This working group will:  
-- Support harmonization and in-country deployment of the bioinformatics analysis of MPXV genome data to strengthen quality of the analysis (for example generation of high quality consensus sequences and an External Quality Assurance (EQA) for bioinformatics). 
-- Build consensus on sequencing standards for genomic data and linked metadata to be uploaded to GISAID and other pathogen genomic data sharing platforms 
+- Support harmonization and in-country deployment of the bioinformatics analysis of MPXV genome data to strengthen quality of the analysis
+- Build consensus on standards for genomic data and linked metadata to be uploaded to pathogen genomic data sharing platforms 
 - Identify mechanisms to promote and facilitate sharing of raw sequencing data 
 - Support analysis and interpretation of Mpox sequencing data to characterize and monitor changes in disease transmission including identifying new clades, identification/verification of mutations of interest, and monitoring transmission chains.  
 - Support the integration of sequence data into epidemiological and contextual information as reported by countries. 
-- IPSN Secretariat is facilitating coordination between donors to genomic surveillance 
-- The Hub’s Collaboratory platform will host discussions and communication among members for continued dialogue and exchange of expertise in pathogen genomics 
-
-
 
 Two work streams have been defined for PGS: 
 
-PGS – Data and Benefits sharing 
+###### Data and Benefits sharing 
 
 This work stream will focus on: 
-
-- Identify appropriate mechanisms for timely Mpox genomic data sharing (consensus genomes and raw sequences) 
-    
-
+- Identify appropriate mechanisms for timely Mpox genomic data sharing
 - Identify mechanisms to avoid data fragmentation 
-    
-
 - Identify strategies for selection of samples for sequencing 
-    
 
-PGS – Better Tools and Standards 
+###### Better Tools and Standards 
 
 This workstream will focus on: 
-
-- Identifying preferred wet lab and bioinformatic workflows 
-    
-
+- Identifying preferred wet lab and bioinformatic workflows
 - Harmonizing data standards and protocols 
-    
 
- Wastewater Surveillance Working Group 
+ ##### Wastewater Surveillance Working Group 
 
 Overview 
 

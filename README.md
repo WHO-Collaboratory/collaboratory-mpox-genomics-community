@@ -14,7 +14,7 @@ WHO Director-General Dr Tedros Adhanom Ghebreyesus has determined that the upsur
 The objective of this CoP is to support members to exchange knowledge that enhances their ability to make informed decisions, solve challenges, and identify new opportunities for utilizing pathogen genomics and wastewater surveillance in the emergency response to Mpox. 
 ##### Working Groups & Workstreams 
 
-The CoP is divided into two working groups: Pathogen Genomics Working group (PG) and [[#Wastewater Surveillance Working Group]] (WES). Within each work group, there are distinct workstreams which enable members to focus on specific issues most salient to them.  
+The CoP is divided into two working groups: Pathogen Genomics Working group (PG) and Wastewater Surveillance Working Group (WES). Within each work group, there are distinct workstreams which enable members to focus on specific issues most salient to them.  
 
 #### Pathogen Genomics Working group  
 
@@ -37,7 +37,7 @@ This work stream will focus on: 
 ##### Better Tools and Standards 
 
 This workstream will focus on: 
-- Identifying preferred wet lab and bioinformatic workflows
+- Identifying preferred wet lab and bioinformatic workflows 
 - Harmonizing data standards and protocols 
 
 #### Wastewater Surveillance Working Group 

@@ -44,23 +44,26 @@ This workstream will focus on: 
 
 Wastewater surveillance has emerged as a valuable tool for detecting and quantifying the mpox virus. The virus is excreted in urine and stool at high levels, and its stability in the environment makes it well-suited for monitoring through sewage. Research has shown that wastewater surveillance for monkeypox virus is highly sensitive, capable of detecting viral DNA even when there are just a few confirmed cases. This method's flexibility allows it to be tailored to meet varying public health needs, capacity, and resources.
 
-The Wastewater Surveillance Working Group aims to support members in increasing their capacity to make decisions about how and if wastewater surveillance can increase situational awareness as part of the Mpox response.  
+This working groupw will:
+- Explore the different use cases for WES in the emergency resposne to Mpox
+- Support knowledge sharing around best practices for implementation and ongoing learnings
+- Identify protocols that can be deployed in variable geographic contexts
+- Tackle ongoing challenges to accelerate progress for use of WES in the Mpox response
 
 To achieve this goal, three workstreams have been defined: 
-1. Technical Methods & Approaches
-	- This workstream is dedicated to discussions around the technical methods and approaches used in wastewater surveillance for Mpox. Topics may include:  
+
+##### Technical Methods & Approaches
+
 	- Technique Evaluation: Discuss and assess different analytic methods and their role in rapid deployment of wastewater surveillance for Mpox detection.  
 	- Contextual Adaptation: Share experiences on how different techniques perform under varying conditions, including differences in sanitation systems and outbreak scales. 
 	- Standard Operating Procedures: Review and compare existing guidelines and recommendations for wastewater surveillance across various institutions to identify inconsistencies and gaps.  
 
-2. Data Interpretation, Integration, and Communication 
-	- This workstream is focused on the various methodologies and practices for interpreting, integrating, and communicating data related to Mpox. Topics may include:  
+##### Data Interpretation, Integration, and Communication 
 	- Interpreting Findings: Discuss approaches for distinguishing meaningful patterns from Mpox data from wastewater; and the implication for insights into the situation.  
 	- Data Integration and Consistency: Explore challenges and solutions related to integrating clinical and genomic datasets with wastewater data. 
 	- Effective Communication with Stakeholders: Consider strategies for tailoring communication to different stakeholders to ensure the relevance and impact of shared information. 
     
-3. Sampling Protocols  
-	- This workstream focuses on discussing approaches for wastewater sampling and understanding how the methodologies used can influence the interpretation of the data. Topics may include: 
+##### Sampling Protocols
 	- Assessment of Sampling Protocols: Explore the effectiveness of sampling protocols in various settings, including healthcare facilities and community environments. 
 	- Adaptation of Sampling Techniques: Discuss how sampling methods can be adapted based on resource availability and local conditions. 
 	- Evaluation of Sampling Method Performance: Evaluate the sensitivity and specificity of different sampling techniques for detecting mpox in wastewater. 

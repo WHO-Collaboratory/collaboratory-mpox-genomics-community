@@ -45,9 +45,8 @@ This workstream will focus on: 
 Wastewater surveillance has emerged as a valuable tool for detecting and quantifying the mpox virus. The virus is excreted in urine and stool at high levels, and its stability in the environment makes it well-suited for monitoring through sewage. Research has shown that wastewater surveillance for monkeypox virus is highly sensitive, capable of detecting viral DNA even when there are just a few confirmed cases. This method's flexibility allows it to be tailored to meet varying public health needs, capacity, and resources.
 
 This working groupw will:
-- Explore the different use cases for WES in the emergency resposne to Mpox
+- Explore the different use cases for WES in the emergency response to Mpox
 - Support knowledge sharing around best practices for implementation and ongoing learnings
-- Identify protocols that can be deployed in variable geographic contexts
 - Tackle ongoing challenges to accelerate progress for use of WES in the Mpox response
 
 To achieve this goal, three workstreams have been defined: 

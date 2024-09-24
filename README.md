@@ -59,3 +59,6 @@ To achieve this goal, three workstreams have been defined: 
 - Assessment of Sampling Protocols: Explore the effectiveness of sampling protocols in various settings, including healthcare facilities and community environments. 
 - Adaptation of Sampling Techniques: Discuss how sampling methods can be adapted based on resource availability and local conditions. 
 - Evaluation of Sampling Method Performance: Evaluate the sensitivity and specificity of different sampling techniques for detecting mpox in wastewater. 
+
+If you are interested in joining these community of practice please contact the [IPSN Secretariat](mailto:ipsn-secretariat@who.int)
+

@@ -2,8 +2,7 @@
 
 ### Community curated landscape of mpox genomics
 
-![image](landscape.pdf)
-
+![image](landscape.jpg)
 #### Primer Schemes 
 
 | Primer Scheme​     | Amplicon size (bp)​ | No. primers​ | Clade reference​   | Works with clade Ib?​ | Protocol or repo​                                                                                                                                                                                                                                                                                                                                                                                                                         | Citation​                                                                                                                                            |

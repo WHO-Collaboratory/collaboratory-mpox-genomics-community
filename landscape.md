@@ -18,7 +18,7 @@
 
 Adapted from https://artic.network/mpxv/resources
 
-#### Bioinformatic Workflows
+#### Bioinformatic workflows for consensus generation from amplicon sequencing
 
 | **Pipeline**                                                                      | **Sequencing Platform**      | **Workflow Language** | **Containerized**    | **Host Removal**        | **Trimming**        | **Primer Removal** | **Reference Mapping** | **Variant Calling**        | **MSA** | **Annotation** |
 | --------------------------------------------------------------------------------- | ---------------------------- | --------------------- | -------------------- | ----------------------- | ------------------- | ------------------ | --------------------- | -------------------------- | ------- | -------------- |

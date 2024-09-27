@@ -35,6 +35,7 @@ This workstream will focus on: 
 - Identifying preferred wet lab and bioinformatic workflows 
 - Harmonizing data standards and protocols 
 
+This workstream is undertaking a [landscape analysis](landscape.md) of the current status in mpox genomics
 #### Wastewater Surveillance Working Group 
 
 Wastewater surveillance has emerged as a valuable tool for detecting and quantifying the mpox virus. The virus is excreted in urine and stool at high levels, and its stability in the environment makes it well-suited for monitoring through sewage. Research has shown that wastewater surveillance for monkeypox virus is highly sensitive, capable of detecting viral DNA even when there are just a few confirmed cases. This method's flexibility allows it to be tailored to meet varying public health needs, capacity, and resources.

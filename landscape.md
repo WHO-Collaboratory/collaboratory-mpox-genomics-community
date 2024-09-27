@@ -1,4 +1,4 @@
-![image](ipsn.png) 
+![image](img/ipsn.png) 
 
 ### Community curated landscape of mpox genomics
 

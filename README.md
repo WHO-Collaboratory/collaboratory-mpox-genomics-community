@@ -1,6 +1,6 @@
 
 
-![image](ipsn.png)
+![image](img/ipsn.png)
 ### IPSN Community of Practice on specialized surveillance for emergency response
 
 The [IPSN](https://www.who.int/initiatives/international-pathogen-surveillance-network) is a global network of pathogen genomic actors, hosted by the WHO Hub for Pandemic and Epidemic Intelligence, to accelerate progress on the deployment of pathogen genomics and improve public health decision-making in line with the implementation of the Global Genomic Strategy for Pathogens with Pandemic and Epidemic Potential. 

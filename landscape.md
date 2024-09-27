@@ -1,8 +1,8 @@
 ![image](ipsn.png) 
 
-### Community created landscape of mpox genomics
+### Community curated landscape of mpox genomics
 
-
+![image](landscape.pdf)
 
 #### Primer Schemes 
 

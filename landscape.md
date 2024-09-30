@@ -1,6 +1,9 @@
 ![image](img/ipsn.png) 
 
-### Community curated landscape of mpox genomics
+In an effort to help countries navigate the many options available in terms of both wet-lab and dry-lab approaches to mpox genomics the Better Tools and Standards workstream have begun to collate a landscape analysis of the current methods.
+
+We welcome updates either through pull-requests or via issues to this repository.
+### Community curated landscape of mpox genomic
 
 ![image](img/landscape.jpg)
 #### Primer Schemes 

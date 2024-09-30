@@ -5,7 +5,7 @@
 
 The [IPSN](https://www.who.int/initiatives/international-pathogen-surveillance-network) is a global network of pathogen genomic actors, hosted by the WHO Hub for Pandemic and Epidemic Intelligence, to accelerate progress on the deployment of pathogen genomics and improve public health decision-making in line with the implementation of the Global Genomic Strategy for Pathogens with Pandemic and Epidemic Potential. 
 
-WHO Director-General Dr Tedros Adhanom Ghebreyesus has determined that the upsurge of mpox in the Democratic Republic of the Congo (DRC) and a growing number of countries in Africa constitutes a public health emergency of international concern (PHEIC) under the International Health Regulations (2005) (IHR).  To support this repsone IPSN is standing-up a Community of Practice (CoP) for specialized surveillance for emergency response to facilitate the coordination of pathogen genomics actors. 
+WHO Director-General Dr Tedros Adhanom Ghebreyesus has determined that the upsurge of mpox in the Democratic Republic of the Congo (DRC) and a growing number of countries in Africa constitutes a public health emergency of international concern (PHEIC) under the International Health Regulations (2005) (IHR).  To support this response IPSN is standing-up a Community of Practice (CoP) for specialized surveillance for emergency response to facilitate the coordination of pathogen genomics actors. 
 
 #### Community of Practice Objective & Structure 
 

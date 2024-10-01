@@ -30,7 +30,7 @@ This work stream will focus on: 
 - Identify mechanisms to avoid data fragmentation 
 - Identify strategies for selection of samples for sequencing 
 
-##### Better Tools and Standards 
+	##### Better Tools and Standards 
 This workstream will focus on: 
 - Identifying preferred wet lab and bioinformatic workflows 
 - Harmonizing data standards and protocols 

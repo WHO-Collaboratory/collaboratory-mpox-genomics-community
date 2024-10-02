@@ -1,16 +1,16 @@
 ![image](img/ipsn.png) 
 
-In an effort to help countries navigate the many options available in terms of both wet-lab and dry-lab approaches to mpox genomics the Better Tools and Standards workstream have begun to collate a landscape analysis of the current methods.
+In an effort to help countries navigate the many options available in terms of both wet-lab and dry-lab approaches to MPXV genomics the Better Tools and Standards workstream have begun to collate a landscape analysis of the current methods.
 
 We welcome updates either through pull-requests or via issues to this repository.
-### Community curated landscape of mpox genomic
+### Community curated landscape of MPXV genomics
 
 ![image](img/landscape.jpg)
 #### Primer Schemes 
 
 For multiplex tiled-amplicon sequencing several primer schemes have developed.  These primer schemes are agnostic of the downstream sequencing platform although platform specific pre-processing (e.g. fragmentation) maybe required.
 
-Primer schemes are designed against single or multiple references.  For mpox, the current primer schemes have utilised a IIb clade reference sequence.  For the recent emergence of clade Ib, evidence is developing of the utility of these schemes for mpox sequencing of Ib genomes (see table below).
+Primer schemes are designed against single or multiple references.  For mpox, the current primer schemes have utilised a IIb clade reference sequence.  For the recent emergence of clade Ib, evidence is developing of the utility of these schemes for MPXV sequencing of Ib genomes (see table below).
 
 | Primer Scheme​     | Amplicon size (bp)​ | No. primers​ | Clade reference​   | Works with clade Ib?​                                                                             | Protocol or repo​                                                                                        | Citation​                                       |
 | ------------------ | ------------------- | ------------ | ------------------ | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
@@ -27,7 +27,7 @@ Adapted from https://artic.network/mpxv/resources
 
 #### Bioinformatic workflows for consensus generation from amplicon sequencing
 
-The generation of an Mpox virus consensus sequence from a tiled-amplicon sequencing run requires multiple bioinformatic steps including filtering and trimming of host and primer sequences, mapping reads to the appropriate reference genome and identifying variants in the new sequence.  There are many options for end-to-end workflows that perform these individual steps supporting different sequencing platforms.  These pipelines generally utilize a workflow management system (i.e. Nextflow / WDL) that facilitate the integration of these diverse tools and containerization to enable deployment across different platforms and environments.  Despite the wide choice of workflows listed below we can see that many of the tools while sequencing platform specific are shared across different implementations.
+The generation of an MPXV consensus sequence from a tiled-amplicon sequencing run requires multiple bioinformatic steps including filtering and trimming of host and primer sequences, mapping reads to the appropriate reference genome and identifying variants in the new sequence.  There are many options for end-to-end workflows that perform these individual steps supporting different sequencing platforms.  These pipelines generally utilize a workflow management system (i.e. Nextflow / WDL) that facilitate the integration of these diverse tools and containerization to enable deployment across different platforms and environments.  Despite the wide choice of workflows listed below we can see that many of the tools while sequencing platform specific are shared across different implementations.
 
 | **Pipeline**                                                                      | **Sequencing Platform**      | **Workflow Language** | **Containerized**    | **Host Removal**        | **Trimming**        | **Primer Removal** | **Reference Mapping** | **Variant Calling**        | **MSA** | **Annotation** |
 | --------------------------------------------------------------------------------- | ---------------------------- | --------------------- | -------------------- | ----------------------- | ------------------- | ------------------ | --------------------- | -------------------------- | ------- | -------------- |

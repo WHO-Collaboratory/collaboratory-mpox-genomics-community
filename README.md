@@ -19,14 +19,14 @@ This working group will:  
 - Support harmonization and in-country deployment of the bioinformatics analysis of MPXV genome data to strengthen quality of the analysis
 - Build consensus on standards for genomic data and linked metadata to be uploaded to pathogen genomic data sharing platforms 
 - Identify mechanisms to promote and facilitate sharing of raw sequencing data 
-- Support analysis and interpretation of Mpox sequencing data to characterize and monitor changes in disease transmission including identifying new clades, identification/verification of mutations of interest, and monitoring transmission chains.  
+- Support analysis and interpretation of MPXV sequencing data to characterize and monitor changes in disease transmission including identifying new clades, identification/verification of mutations of interest, and monitoring transmission chains.  
 - Support the integration of sequence data into epidemiological and contextual information as reported by countries. 
 
 Two work streams have been defined for PGS: 
 
 ##### Data and Benefits sharing 
 This work stream will focus on: 
-- Identify appropriate mechanisms for timely Mpox genomic data sharing
+- Identify appropriate mechanisms for timely MPXV genomic data sharing
 - Identify mechanisms to avoid data fragmentation 
 - Identify strategies for selection of samples for sequencing 
 

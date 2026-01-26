@@ -9,7 +9,7 @@ WHO Director-General Dr Tedros Adhanom Ghebreyesus has determined that the upsur
 
 **Update 26.01.26**
 
-![[Pasted image 20260126161309.png]]
+![image](img/doc_img.png)
 On 20 December 2025, WHO published Analytical considerations for genomic surveillance of mpox virus, which provides practical guidance for MPXV genomic surveillance across different resource settings, to support public health surveillance and response.  
 
 The resulting document brings together practical considerations across the genomic surveillance process, from sample preparation and sequencing to data analysis, interpretation, and responsible data sharing. It will support countries and partners to apply genomic surveillance across settings and integrate genomic data into public health action.  
